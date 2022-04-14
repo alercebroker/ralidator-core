@@ -29,7 +29,7 @@ class Ralidator(object):
         """
         raise NotImplementedError()
 
-    def set_required_permisions(self, permisions_list):
+    def set_required_permissions(self, permisions_list):
         """Setter for the required permisions attribute.
 
         :param permisions_list: The list of permisions to be stored
